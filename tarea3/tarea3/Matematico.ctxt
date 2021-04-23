@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Matematico
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Matematico\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n1\ n2\ n3
+comment1.target=java.lang.String\ indicarMayor(double,\ double,\ double)
+comment2.params=uno\ dos
+comment2.target=double\ distanciaDosPuntos(Punto,\ Punto)
+comment3.params=a\ b
+comment3.target=double\ area(double,\ double)
+comment4.params=punto
+comment4.target=java.lang.String\ cuadrante(Punto)
+comment5.params=cat\ hip\ calculadora
+comment5.target=double\ catetoFaltante(double,\ double,\ Calculadora)
+numComments=6
